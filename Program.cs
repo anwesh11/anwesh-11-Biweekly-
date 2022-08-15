@@ -14,7 +14,7 @@ namespace htel
 
         {
 
-            Console.WriteLine("\t\t\tWelcome to sydney hotel");
+            Console.WriteLine("\t\t\tWelcome to KOI");
             int i = 0;
             string[] name = new string[20];
             int[] night = new int[20];
